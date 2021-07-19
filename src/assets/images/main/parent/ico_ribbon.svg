@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="376.306" height="86.383" viewBox="0 0 376.306 86.383">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="사각형_1239_복사_3" d="M0 0H277.479V55.021H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#3da8f4}.cls-3{fill:#2a97e5}.cls-4{fill:#0d6db2}
+        </style>
+    </defs>
+    <g id="그룹_1117" transform="translate(-453 -113.686)">
+        <g id="타이틀" transform="translate(453 104)">
+            <path id="사각형_1239_복사_5" d="M304.7 82.069V62.17H71.6V81.5H0l21.808-29.753L0 19.338h50.529V0h277.479v19.9h48.3L354.5 52.313l21.808 29.756z" opacity="0.2" transform="translate(0 14)"/>
+            <g id="그룹_19" transform="translate(5.475 32.313)">
+                <path id="사각형_1239_복사_4" d="M81.664 165.448h66.128v55.02H81.664L98 194.512z" class="cls-3" transform="translate(-81.664 -165.448)"/>
+                <path id="사각형_1241" d="M149.61 214.069h21.081V236.7z" class="cls-4" transform="translate(-104.563 -181.834)"/>
+            </g>
+            <g id="그룹_19_복사" transform="translate(308.018 32.313)">
+                <path id="사각형_1239_복사_4-2" d="M604.127 165.448H538v55.02h66.128l-16.333-25.957z" class="cls-3" transform="translate(-537.999 -165.448)"/>
+                <path id="사각형_1241-2" d="M559.08 214.069H538V236.7z" class="cls-4" transform="translate(-537.999 -181.834)"/>
+            </g>
+            <g id="사각형_1239_복사_3-2" transform="translate(50.529 9.686)">
+                <path id="사각형_1239_복사_3-3" d="M0 0H277.479V55.021H0z" class="cls-1"/>
+                <g id="Clip" clip-path="url(#clip-path)">
+                    <path id="사각형_1285" d="M214.73-27.913l60.218 84.253L164.577 173.9l-60.218-84.251z" transform="translate(-134.366 -77.656)" style="mix-blend-mode:overlay;isolation:isolate" fill="#bdeaff" opacity="0.2"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

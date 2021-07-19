@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="136" viewBox="0 0 151 136">
+    <defs>
+        <style>
+            .cls-1{fill:#d8f2ff}.cls-2{fill:#50acdb}
+        </style>
+    </defs>
+    <g id="그룹_4411" transform="translate(-40 -182)">
+        <path id="Rounded_Rectangle_16_복사_copy" d="M40 0h111v80H40A40 40 0 0 1 0 40 40 40 0 0 1 40 0z" class="cls-1" transform="translate(40 210)"/>
+        <g id="그룹_1590" transform="translate(0 -70)">
+            <g id="그룹_1120" transform="translate(139 252)">
+                <path id="Rounded_Rectangle_16_복사_copy-2" d="M0 0H19V14H0z" class="cls-1" transform="translate(32 15)"/>
+                <rect id="Rounded_Rectangle_16_복사_copy-3" width="51" height="28" class="cls-2" rx="14"/>
+            </g>
+            <g id="그룹_1121" transform="translate(139 360)">
+                <path id="Rounded_Rectangle_16_복사_copy-4" d="M0 0H19V14H0z" class="cls-1" transform="translate(32 -1)"/>
+                <rect id="Rounded_Rectangle_16_복사_copy-5" width="51" height="28" class="cls-2" rx="14"/>
+            </g>
+        </g>
+    </g>
+</svg>

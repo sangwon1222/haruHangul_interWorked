@@ -1,0 +1,33 @@
+// var
+$mainFont: 'Noto Sans KR';
+
+$colorF: #fff;
+$colorB: #bbb;
+$color3: #333;
+$color6: #666;
+$color9: #999;
+
+// 하루 한글 컬러
+$step01Color: #ffc84a;
+$step01ColorActive: #fba000;
+$step02Color: #ffa4a1;
+$step02ColorActive: #fc615d;
+$step03Color: #70da8b;
+$step03ColorActive: #34cc67;
+$step04Color: #6bd2f8;
+$step04ColorActive: #00b4f2;
+$step05Color: #ff93bc;
+$step05ColorActive: #ff5e9b;
+$step06Color: #ba9fff;
+$step06ColorActive: #9a73ff;
+
+// 그림자 mixin
+$boxShadow: 160;
+@mixin boxShadow($thick: 4px, $opacity: 0.4) {
+  /* offset-x | offset-y | blur-radius | spread-radius | color */
+  -webkit-box-shadow: 0px 1px $thick 1px
+    rgba($boxShadow, $boxShadow, $boxShadow, $opacity);
+  -moz-box-shadow: 0px 1px $thick 1px
+    rgba($boxShadow, $boxShadow, $boxShadow, $opacity);
+  box-shadow: 1px 1px $thick rgba($boxShadow, $boxShadow, $boxShadow, $opacity);
+}

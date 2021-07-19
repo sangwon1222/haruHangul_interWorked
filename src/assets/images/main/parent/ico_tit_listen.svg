@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="83" viewBox="0 0 33 83">
+    <g>
+        <path fill="#fc615d" d="M0 0h33v68a15 15 0 0 1-15 15h-3A15 15 0 0 1 0 68V0z" transform="translate(-240 -160) translate(240 160)"/>
+        <text fill="#fff" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-size="20px" font-weight="500" transform="translate(-240 -160) translate(257 197)">
+            <tspan x="-9.2" y="0">듣</tspan><tspan x="-9.2" y="26">기</tspan>
+        </text>
+    </g>
+</svg>

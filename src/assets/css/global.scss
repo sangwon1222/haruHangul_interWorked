@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap%22%20rel=%22stylesheet%22');
+// tmoney
+@font-face {
+  font-family: 'tmoney-regular';
+  // font-weight: 200;
+  src: url('~@/assets/fonts/TMONEYROUNDWIND/TMONEYROUNDWINDREGULAR.eot');
+  src: url('~@/assets/fonts/TMONEYROUNDWIND/TMONEYROUNDWINDREGULAR.eot?#iefix')
+      format('embedded-opentype'),
+    url('~@/assets/fonts/TMONEYROUNDWIND/TMONEYROUNDWINDREGULAR.woff')
+      format('woff');
+}
+@font-face {
+  font-family: 'tmoney-bold';
+  // font-weight: 200;
+  src: url('~@/assets/fonts/TMONEYROUNDWIND/TMONEYROUNDWINDEXTRABOLD.eot');
+  src: url('~@/assets/fonts/TMONEYROUNDWIND/TMONEYROUNDWINDEXTRABOLD.eot?#iefix')
+      format('embedded-opentype'),
+    url('~@/assets/fonts/TMONEYROUNDWIND/TMONEYROUNDWINDEXTRABOLD.woff')
+      format('woff');
+}
+// BPreplay
+@font-face {
+  font-family: 'BPreplay-regular';
+  // font-weight: 200;
+  src: url('~@/assets/fonts/BPreplay/BPreplay.eot');
+  src: url('~@/assets/fonts/BPreplay/BPreplay.eot?#iefix')
+      format('embedded-opentype'),
+    url('~@/assets/fonts/BPreplay/BPreplay.woff') format('woff');
+}
+@font-face {
+  font-family: 'BPreplay-bold';
+  // font-weight: 200;
+  src: url('~@/assets/fonts/BPreplay/BPreplay-Bold.eot');
+  src: url('~@/assets/fonts/BPreplay/BPreplay-Bold.eot?#iefix')
+      format('embedded-opentype'),
+    url('~@/assets/fonts/BPreplay/BPreplay-Bold.woff') format('woff');
+}
+html {
+  box-sizing: border-box;
+  -ms-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  user-select: none;
+  text-size-adjust: none;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  outline: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1.2rem;
+  font-family: $mainFont, sans-serif;
+  font-weight: 400;
+  line-height: 1.25;
+  color: $color3;
+}
+
+ul,
+ol,
+li,
+dl,
+dt,
+dd {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+img {
+  border: 0;
+  vertical-align: middle;
+  font-size: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+select,
+input[type='text'],
+input[type='password'],
+input[type='number'],
+textarea {
+  appearance: none;
+  -webkit-appearance: none;
+  color: $color3;
+  font-size: 1.2rem;
+  font-family: $mainFont;
+}
+// input[type='range'] {
+//   width: 100%;
+//   -webkit-appearance: none;
+//   background: transparent;
+//   &:focus {
+//     outline: none;
+//   }
+// }
+select {
+  // padding: 8px 40px 8px 10px;
+  // background: url('~static/images/mobile/common/triangle.png') no-repeat 97% 48%;
+  // background: url('~static/images/mobile/common/triangle.png') no-repeat 92% 48%;
+  // background-size: 12px;
+}
+select,
+input {
+  vertical-align: middle;
+}
+select::-ms-expand {
+  display: none;
+}
+
+input[type='text'],
+input[type='password'],
+input[type='number'],
+textarea {
+  padding: 8px 10px;
+  font-size: 16px;
+}
+input[type='password'] {
+  font-family: sans-serif;
+}
+input[type='radio'],
+input[type='checkbox'] {
+  width: 20px;
+  height: 20px;
+}
+::-webkit-input-placeholder {
+  /* Edge */
+  color: #adadad;
+}
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #adadad;
+}
+::placeholder {
+  color: #adadad;
+}
+b,
+strong {
+  font-weight: 700;
+}
+
+address,
+em,
+i {
+  font-style: normal;
+}
+
+button {
+  border: 0 none;
+  background: none;
+  font-family: $mainFont, sans-serif;
+  transition: all 0.3s ease 0s;
+  -webkit-transition: all 0.3s ease 0s;
+  cursor: pointer;
+}
+
+hr {
+  margin: 0;
+  border: none;
+  padding: 0;
+  display: block;
+}
+
+figure,
+figcaption {
+  padding: 0;
+  margin: 0;
+  display: block;
+}
+
+fieldset {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+a,
+input[type='radio'],
+input[type='checkbox'],
+label {
+  cursor: pointer;
+}
+
+input[type='submit'] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+textarea {
+  line-height: 20px;
+}
+
+header,
+footer,
+article,
+section,
+aside,
+nav,
+main {
+  display: block;
+}
+input {
+  font-weight: 200;
+}
+
+[lang='en'] {
+  font-family: 'Roboto', sans-serif;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.no-resize {
+  resize: none;
+}

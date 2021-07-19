@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="348" height="398" viewBox="0 0 348 398">
+    <defs>
+        <filter id="사각형_396" width="348" height="216" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="사각형_2030" width="348" height="188" x="0" y="210" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-2" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-1{fill:#fff}.cls-4{fill:#8de2ff}.cls-5{fill:#e6e6e6}
+        </style>
+    </defs>
+    <g id="그룹_11508" transform="translate(-911 -301)">
+        <g id="그룹_11507">
+            <g id="그룹_11506">
+                <g filter="url(#사각형_396)" transform="translate(911 301)">
+                    <rect id="사각형_396-2" width="330" height="198" class="cls-1" rx="20" transform="translate(9 9)"/>
+                </g>
+                <g filter="url(#사각형_2030)" transform="translate(911 301)">
+                    <rect id="사각형_2030-2" width="330" height="170" class="cls-1" rx="20" transform="translate(9 219)"/>
+                </g>
+                <path id="사각형_388" fill="#ffb612" d="M0 0h170v27a20 20 0 0 1-20 20H20A20 20 0 0 1 0 27V0z" transform="translate(1000 520)"/>
+                <path id="사각형_388-2" fill="#00b4f2" d="M20 0h290a20 20 0 0 1 20 20v40H0V20A20 20 0 0 1 20 0z" transform="translate(920 310)"/>
+                <g id="그룹_11285" transform="translate(0 -4)">
+                    <g id="그룹_11283" transform="translate(959 491)">
+                        <circle id="타원_2116" cx="8" cy="8" r="8" class="cls-4"/>
+                        <circle id="타원_2117" cx="8" cy="8" r="8" class="cls-4" transform="translate(0 37)"/>
+                        <rect id="사각형_2031" width="10" height="43" class="cls-5" rx="5" transform="translate(3 5)"/>
+                    </g>
+                    <g id="그룹_11284" transform="translate(1195 491)">
+                        <circle id="타원_2116-2" cx="8" cy="8" r="8" class="cls-4"/>
+                        <circle id="타원_2117-2" cx="8" cy="8" r="8" class="cls-4" transform="translate(0 37)"/>
+                        <rect id="사각형_2031-2" width="10" height="43" class="cls-5" rx="5" transform="translate(3 5)"/>
+                    </g>
+                </g>
+            </g>
+            <text id="나의_진도" fill="#fff" font-family="TmoneyRoundWind-ExtraBold, Tmoney RoundWind" font-size="30px" font-weight="800" transform="translate(1085 352)">
+                <tspan x="-61.95" y="0">나의 진도</tspan>
+            </text>
+        </g>
+        <text id="일차" fill="#999" font-family="TmoneyRoundWind-ExtraBold, Tmoney RoundWind" font-size="24px" font-weight="800" transform="translate(1197 461)">
+            <tspan x="-23.16" y="0">일차</tspan>
+        </text>
+    </g>
+</svg>

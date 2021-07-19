@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="도토리" width="54" height="54" viewBox="0 0 54 54">
+    <defs>
+        <style>
+            .cls-3{fill:#7a350f}
+        </style>
+    </defs>
+    <circle id="타원_1040_복사" cx="27" cy="27" r="27" fill="#d2e8a7"/>
+    <path id="Ellipse_1_copy" fill="#d76124" d="M481.832 63.647c-3.864 6.131-8.773 6.549-14.343 6.705-4.743-2.93-8.8-5.761-9.094-13.008-.32-7.986 3.059-18.9 16.6-15.135 13.605 3.533 11.094 14.684 6.837 21.438z" transform="translate(-446 -24)"/>
+    <path id="Rounded_Rectangle_1" d="M477.72 32.253a1.7 1.7 0 0 1 1.285 2.054l-1.925 6a1.036 1.036 0 0 1-1.275.725l-.805-.221a1.04 1.04 0 0 1-.743-1.267l1.32-6.159a1.706 1.706 0 0 1 2.143-1.132z" class="cls-3" transform="translate(-446 -24)"/>
+    <path id="Rectangle_1_copy" d="M485.107 54.729s-2.447-4.667-11.555-7.116-13.552.363-13.552.363a7.094 7.094 0 0 1 1.128-7.078c2.522-3.267 7.824-5.977 15.27-3.974s10.7 7.267 11.262 11.11a6.976 6.976 0 0 1-2.553 6.695z" class="cls-3" transform="translate(-446 -24)"/>
+    <path id="Shape_1" fill="none" stroke="#fc9c6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="4px" d="M463.233 55.576a11.126 11.126 0 0 0 3.043 8.074" transform="translate(-446 -24)"/>
+</svg>

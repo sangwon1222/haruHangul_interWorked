@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-아트보드_1">
+      <rect width="80" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="아트보드_1" data-name="아트보드 – 1" clip-path="url(#clip-아트보드_1)">
+    <g id="그룹_8792" data-name="그룹 8792" transform="translate(-1017 -130)">
+      <circle id="타원_560" data-name="타원 560" cx="40" cy="40" r="40" transform="translate(1017 130)" fill="#c4e7f8"/>
+      <g id="그룹_8630" data-name="그룹 8630" transform="translate(14945.688 7913.557)">
+        <path id="패스_4847" data-name="패스 4847" d="M.414,11.557C-.766,7.724.591,5.8,4.322,4.6S13.062,1.785,15.4,1.079s7.179-2.523,8.162,1.139c.861,3.209.72,4.468-6.184,6.456s-8,2.388-6.546,6.727,5.933,1.782,9.143.639,7.106-2.75,8.183.778-.466,4.977-3.931,6.068-9.987,3.134-12.475,3.928-6.346.086-7.444-2.889S1.249,14.268.414,11.557Z" transform="matrix(0.951, 0.309, -0.309, 0.951, -13898.05, -7778.151)" fill="#50acdb"/>
+        <circle id="타원_252" data-name="타원 252" cx="4.745" cy="4.745" r="4.745" transform="matrix(0.951, 0.309, -0.309, 0.951, -13887.646, -7779.471)" fill="#fff"/>
+        <circle id="타원_253" data-name="타원 253" cx="4.745" cy="4.745" r="4.745" transform="matrix(0.951, 0.309, -0.309, 0.951, -13897.137, -7779.62)" fill="#fff"/>
+        <circle id="타원_254" data-name="타원 254" cx="2.726" cy="2.726" r="2.726" transform="matrix(0.951, 0.309, -0.309, 0.951, -13884.981, -7776.445)" fill="#4c4847"/>
+        <circle id="타원_255" data-name="타원 255" cx="2.726" cy="2.726" r="2.726" transform="matrix(0.951, 0.309, -0.309, 0.951, -13894.31, -7776.61)" fill="#4c4847"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <circle cx="10" cy="10" r="10" fill="#00aaed"/>
+    <text fill="#fff" font-family="TmoneyRoundWind-ExtraBold, Tmoney RoundWind" font-size="16px" font-weight="800" transform="translate(10 16)">
+        <tspan x="-2.848" y="0">!</tspan>
+    </text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215.206" height="89.232" viewBox="0 0 215.206 89.232">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y1=".996" y2="-.001" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fddc0d"/>
+            <stop offset="1" stop-color="#fddc0d" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" y1=".004" y2="1.001" xlink:href="#linear-gradient"/>
+        <style>
+            .cls-1{fill:#fba000}.cls-6{fill:#fff;opacity:.7}
+        </style>
+    </defs>
+    <g id="그룹_8662" transform="translate(-103.9 -372.78)">
+        <g id="그룹_7369" transform="translate(134.45 406.122)">
+            <path id="패스_8714" d="M-513.166-78.525h-76.646v27.7s4.1 11.445 76.448 11.466h.288c72.347-.021 76.843-11.466 76.843-11.466v-27.7z" class="cls-1" transform="translate(589.812 95.252)"/>
+            <ellipse id="타원_557" cx="76.79" cy="16.727" fill="#ffc84a" rx="76.79" ry="16.727"/>
+            <ellipse id="타원_558" cx="31.172" cy="6.843" class="cls-1" rx="31.172" ry="6.843" transform="translate(45.618 9.124)"/>
+        </g>
+        <g id="그룹_7368" transform="translate(105.539 317.012)">
+            <g id="그룹_7366" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" transform="translate(0 56.268)">
+                <path id="합치기_72" fill="url(#linear-gradient)" d="M86.729 54.817A22.708 22.708 0 0 1 79.8 53.64h-.05L0 0h53.607l42.45 53.64h-2.134c.208.126.318.253.312.378-.026.535-2.151.87-5.084.87-.76-.001-1.575-.023-2.422-.071z" opacity="0.3"/>
+                <path id="합치기_73" fill="url(#linear-gradient-2)" d="M86.73.07a22.708 22.708 0 0 0-6.93 1.178h-.05L0 54.887h53.607l42.45-53.639h-2.133c.208-.126.318-.253.312-.378C94.209.336 92.084 0 89.151 0c-.76 0-1.575.023-2.421.07z" opacity="0.3" transform="rotate(180 105.963 27.444)"/>
+                <path id="합치기_71" fill="url(#linear-gradient)" d="M48.925 50.208h-.086L0 0h133.531L83.88 50.208h-.075c0 .9-7.806 1.626-17.438 1.626s-17.442-.727-17.442-1.626z" transform="translate(38.975 3.898)"/>
+            </g>
+            <g id="그룹_7367" transform="translate(37.439 95.351)">
+                <path id="패스_7233" d="M12.981 21.33a12.682 12.682 0 0 0-5.343-6.711C3.015 12.052 0 12.6 0 12.6s3.1-.674 5.6-4.838A11.426 11.426 0 0 0 7.288 0a13.2 13.2 0 0 0 5.374 5.984 10.8 10.8 0 0 0 7.222 1.305s-4.026 2.517-5.678 5.372-1.225 8.669-1.225 8.669z" class="cls-6" transform="translate(0 13.954)"/>
+                <path id="패스_7235" d="M3.495 14.954a7.2 7.2 0 0 0-.217-5.427A21.029 21.029 0 0 0 0 3.937s2.1 1.035 5.46-.227A8.441 8.441 0 0 0 10 0a9.749 9.749 0 0 0 .359 5.93A7.975 7.975 0 0 0 13.94 10a32.985 32.985 0 0 0-5.963 1.408 14.127 14.127 0 0 0-4.482 3.546z" class="cls-6" transform="translate(120.249)"/>
+            </g>
+        </g>
+    </g>
+</svg>

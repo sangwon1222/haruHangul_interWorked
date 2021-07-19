@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79.842" height="95.971" viewBox="0 0 79.842 95.971">
+    <defs>
+        <filter id="usqdxk1jxa" width="48.542" height="46.855" x="15.501" y="15.5" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur" stdDeviation=".5"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <path fill="#db2525" d="M2997.37-2575.022h-31.447a1.774 1.774 0 0 0-1.774 1.774v41.065a1.774 1.774 0 0 0 2.5 1.62l15.164-6.809a1.77 1.77 0 0 1 1.52.031l13.243 6.618a1.774 1.774 0 0 0 2.567-1.587v-40.937a1.774 1.774 0 0 0-1.773-1.775z" transform="translate(-2941.474 2626.376)"/>
+        <path fill="#ff4747" d="M2997.37-2577.551h-31.447a1.774 1.774 0 0 0-1.774 1.775v41.066a1.774 1.774 0 0 0 2.5 1.619l15.164-6.81a1.772 1.772 0 0 1 1.52.031l13.243 6.618a1.774 1.774 0 0 0 2.567-1.586v-40.937a1.773 1.773 0 0 0-1.773-1.776z" transform="translate(-2941.474 2627.033)"/>
+        <circle cx="39.921" cy="39.921" r="39.921" fill="#fb8e00"/>
+        <circle cx="37" cy="37" r="37" fill="#ffb612" transform="translate(3 3)"/>
+        <path fill="#fba000" d="M29 0A29 29 0 1 1 0 29 29 29 0 0 1 29 0z" transform="translate(11 11)"/>
+        <g filter="url(#usqdxk1jxa)">
+            <path fill="#ffed1d" d="M21.061 2.818a2 2 0 0 1 3.42 0l5.83 9.609a2 2 0 0 0 1.235.905l10.865 2.654a2 2 0 0 1 1.056 3.231l-7.274 8.642a2 2 0 0 0-.464 1.441l.866 11.3a2 2 0 0 1-2.766 2l-10.286-4.3a2 2 0 0 0-1.543 0l-10.286 4.3a2 2 0 0 1-2.766-2l.866-11.3a2 2 0 0 0-.464-1.441l-7.275-8.642a2 2 0 0 1 1.056-3.231L14 13.332a2 2 0 0 0 1.235-.905z" transform="translate(17 17)"/>
+        </g>
+        <path fill="#ffff36" d="M-197.812-353.234s10.845 1.923 11.768.769 2.846-8.307 2.923-10.614c0 0-.692-.077-2.615 3.461s-1.615 4.9-4.73 5.182-7.115.436-7.346 1.202z" opacity="0.6" transform="translate(222.404 386.976)"/>
+    </g>
+</svg>

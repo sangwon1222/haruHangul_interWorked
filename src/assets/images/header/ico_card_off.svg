@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+    <g>
+        <g transform="translate(-949 -38)">
+            <g transform="translate(949.001 38)">
+                <circle cx="26" cy="26" r="26" fill="#9a73ff" transform="translate(-.001)"/>
+            </g>
+            <rect width="26" height="30" fill="#fff" rx="3" transform="translate(962 49)"/>
+        </g>
+        <text fill="#9a73ff" stroke="#9a73ff" stroke-linejoin="round" font-family="TmoneyRoundWind-ExtraBold, Tmoney RoundWind" font-size="24px" font-weight="800" transform="translate(-949 -38) translate(974 73)">
+            <tspan x="-11.76" y="0">ㄱ</tspan>
+        </text>
+    </g>
+</svg>

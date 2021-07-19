@@ -1,0 +1,7 @@
+// @for $i from 32 through 192 {
+//   @media (min-width: $i * 10px) {
+//     html {
+//       font-size: (($i - 4) * 1%);
+//     }
+//   }
+// }

@@ -1,0 +1,604 @@
+{
+  "data": {
+    "16": {
+      "type1": {
+        "step1": {
+          "type": 1,
+          "correct": ["ㅏ"],
+          "wrong1": ["ㅓ"],
+          "wrong2": ["ㅑ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": ["ㅛ"],
+          "wrong1": ["ㅠ"],
+          "wrong2": ["ㅜ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": ["ㅡ", "ㅠ"],
+          "wrong1": ["ㅗ", "ㅜ"],
+          "wrong2": ["ㅣ", "ㅕ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": ["ㅣ", "ㅓ", "ㅜ"],
+          "wrong": ["ㅏ", "ㅕ", "ㅗ"],
+          "sound": "ac7_script_1.mp3"
+        }
+      },
+      "type2": {
+        "step1": {
+          "type": 1,
+          "correct": "아야",
+          "wrong": "요요",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "우유",
+          "wrong": "여유",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "여우",
+          "wrong": "아야",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step4": {
+          "type": 2,
+          "correct": "이유",
+          "wrong": "아이",
+          "sound": "ac7_script_2.mp3"
+        }
+      },
+      "type3": {
+        "step1": {
+          "type": 1,
+          "correct": "여아",
+          "wrong": ["아야", "야"],
+          "sound": "ac7_script_3.mp3"
+        },
+        "step2": {
+          "type": 2,
+          "correct": "야",
+          "wrong": ["어", "오"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "여유",
+          "wrong": ["아이", "아야"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": "어",
+          "wrong": ["우", "으"],
+          "sound": "ac7_script_5.mp3"
+        }
+      },
+      "type4": {
+        "step1": {
+          "type": 2,
+          "correct": "아",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "아이",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step3": {
+          "type": 1,
+          "correct": "여우",
+          "sound": "ac7_script_6.mp3"
+        }
+      }
+    },
+    "43": {
+      "type1": {
+        "step1": {
+          "type": 1,
+          "correct": ["ㅋ"],
+          "wrong1": ["ㄲ"],
+          "wrong2": ["ㄱ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": ["ㅁ"],
+          "wrong1": ["ㅂ"],
+          "wrong2": ["ㅎ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": ["ㄷ", "ㅈ"],
+          "wrong1": ["ㄴ", "ㅅ"],
+          "wrong2": ["ㅁ", "ㅊ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": ["ㅆ", "ㅌ", "ㅍ"],
+          "wrong": ["ㅊ", "ㄹ", "ㅇ"],
+          "sound": "ac7_script_1.mp3"
+        }
+      },
+      "type2": {
+        "step1": {
+          "type": 1,
+          "correct": "사자",
+          "wrong": "비버",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "혀",
+          "wrong": "코",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "머리띠",
+          "wrong": "꼬끼오",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step4": {
+          "type": 2,
+          "correct": "도끼",
+          "wrong": "토끼",
+          "sound": "ac7_script_2.mp3"
+        }
+      },
+      "type3": {
+        "step1": {
+          "type": 1,
+          "correct": "쿠키",
+          "wrong": ["가짜", "두유"],
+          "sound": "ac7_script_3.mp3"
+        },
+        "step2": {
+          "type": 2,
+          "correct": "비",
+          "wrong": ["뼈", "무"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "라마",
+          "wrong": ["나무", "노크"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": "타이어",
+          "wrong": ["아저씨", "라디오"],
+          "sound": "ac7_script_5.mp3"
+        }
+      },
+      "type4": {
+        "step1": {
+          "type": 1,
+          "correct": "씨",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "고기",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step3": {
+          "type": 1,
+          "fixed": [3],
+          "correct": "사다리",
+          "sound": "ac7_script_6.mp3"
+        }
+      }
+    },
+    "60": {
+      "type1": {
+        "step1": {
+          "type": 1,
+          "correct": ["ㅢ"],
+          "wrong1": ["ㅖ"],
+          "wrong2": ["ㅟ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": ["ㅐ"],
+          "wrong1": ["ㅘ"],
+          "wrong2": ["ㅝ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": ["ㅖ", "ㅢ"],
+          "wrong1": ["ㅔ", "ㅟ"],
+          "wrong2": ["ㅐ", "ㅘ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": ["ㅞ", "ㅘ", "ㅒ"],
+          "wrong": ["ㅚ", "ㅙ", "ㅔ"],
+          "sound": "ac7_script_1.mp3"
+        }
+      },
+      "type2": {
+        "step1": {
+          "type": 1,
+          "correct": "해",
+          "wrong": "새",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "시계",
+          "wrong": "체조",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "예배",
+          "wrong": "타워",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step4": {
+          "type": 2,
+          "correct": "얘들아",
+          "wrong": "얘기",
+          "sound": "ac7_script_2.mp3"
+        }
+      },
+      "type3": {
+        "step1": {
+          "type": 1,
+          "correct": "의사",
+          "wrong": ["의자", "화가"],
+          "sound": "ac7_script_3.mp3"
+        },
+        "step2": {
+          "type": 2,
+          "correct": "웨이터",
+          "wrong": ["스웨터", "왜가리"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "뇌",
+          "wrong": ["새", "귀"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": "제비",
+          "wrong": ["사과", "교회"],
+          "sound": "ac7_script_5.mp3"
+        }
+      },
+      "type4": {
+        "step1": {
+          "type": 1,
+          "correct": "쥐",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "샤워",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step3": {
+          "type": 1,
+          "fixed": [6],
+          "correct": "스웨터",
+          "sound": "ac7_script_6.mp3"
+        }
+      }
+    },
+    "70": {
+      "type1": {
+        "step1": {
+          "type": 1,
+          "correct": ["ㄴ"],
+          "wrong1": ["ㄷ"],
+          "wrong2": ["ㅁ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": ["ㅂ"],
+          "wrong1": ["ㄹ"],
+          "wrong2": ["ㄱ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": ["ㅇ", "ㄹ"],
+          "wrong1": ["ㅁ", "ㅂ"],
+          "wrong2": ["ㄷ", "ㄴ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": ["ㅁ", "ㄷ", "ㄴ"],
+          "wrong": ["ㅇ", "ㅁ", "ㄷ"],
+          "sound": "ac7_script_1.mp3"
+        }
+      },
+      "type2": {
+        "step1": {
+          "type": 1,
+          "correct": "환자",
+          "wrong": "약국",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "입",
+          "wrong": "공",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "문",
+          "wrong": "곰",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step4": {
+          "type": 2,
+          "correct": "숟가락",
+          "wrong": "돋보기",
+          "sound": "ac7_script_2.mp3"
+        }
+      },
+      "type3": {
+        "step1": {
+          "type": 1,
+          "correct": "왕",
+          "wrong": ["활", "밥"],
+          "sound": "ac7_script_3.mp3"
+        },
+        "step2": {
+          "type": 2,
+          "correct": "약국",
+          "wrong": ["환자", "악어"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "뱀",
+          "wrong": ["돌", "공"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": "활",
+          "wrong": ["돌", "밥"],
+          "sound": "ac7_script_5.mp3"
+        }
+      },
+      "type4": {
+        "step1": {
+          "type": 1,
+          "correct": "악어",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step2": {
+          "type": 2,
+          "fixed": [2, 4],
+          "correct": "돋보기",
+          "sound": "ac7_script_6.mp3"
+        }
+      }
+    },
+    "83": {
+      "type1": {
+        "step1": {
+          "type": 1,
+          "correct": ["ㅆ"],
+          "wrong1": ["ㅈ"],
+          "wrong2": ["ㅊ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": ["ㅌ"],
+          "wrong1": ["ㅎ"],
+          "wrong2": ["ㅋ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": ["ㅍ", "ㄲ"],
+          "wrong1": ["ㄲ", "ㅋ"],
+          "wrong2": ["ㅌ", "ㅆ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": ["ㅎ", "ㅅ", "ㅋ"],
+          "wrong": ["ㅎ", "ㅈ", "ㅆ"],
+          "sound": "ac7_script_1.mp3"
+        }
+      },
+      "type2": {
+        "step1": {
+          "type": 1,
+          "correct": "짖다",
+          "wrong": "찾다",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "쌓다",
+          "wrong": "갔다",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "놓다",
+          "wrong": "빗다",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step4": {
+          "type": 2,
+          "correct": "깎다",
+          "wrong": "쫓다",
+          "sound": "ac7_script_2.mp3"
+        }
+      },
+      "type3": {
+        "step1": {
+          "type": 1,
+          "correct": "빛나다",
+          "wrong": ["뱉다", "깊다"],
+          "sound": "ac7_script_3.mp3"
+        },
+        "step2": {
+          "type": 2,
+          "correct": "같다",
+          "wrong": ["쫓다", "들녘"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "짓다",
+          "wrong": ["찾다", "샀다"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": "섞다",
+          "wrong": ["깎다", "숲"],
+          "sound": "ac7_script_5.mp3"
+        }
+      },
+      "type4": {
+        "step1": {
+          "type": 1,
+          "correct": "숲",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "부엌",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "fixed": [1, 4],
+          "correct": "빛나다",
+          "sound": "ac7_script_6.mp3"
+        }
+      }
+    },
+    "100": {
+      "type1": {
+        "step1": {
+          "type": 1,
+          "correct": ["ㄺ"],
+          "wrong1": ["ㅄ"],
+          "wrong2": ["ㄵ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": ["ㅀ"],
+          "wrong1": ["ㄻ"],
+          "wrong2": ["ㄳ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step3": {
+          "type": 1,
+          "correct": ["ㄶ"],
+          "wrong1": ["ㄾ"],
+          "wrong2": ["ㄽ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step4": {
+          "type": 1,
+          "correct": ["ㄳ"],
+          "wrong1": ["ㄶ"],
+          "wrong2": ["ㅀ"],
+          "sound": "ac7_script_1.mp3"
+        }
+      },
+      "type2": {
+        "step1": {
+          "type": 1,
+          "correct": "앉다",
+          "wrong": "옳다",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "밝다",
+          "wrong": "핥다",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "훑다",
+          "wrong": "굶다",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step4": {
+          "type": 2,
+          "correct": "끊다",
+          "wrong": "짧다",
+          "sound": "ac7_script_2.mp3"
+        }
+      },
+      "type3": {
+        "step1": {
+          "type": 1,
+          "correct": "넓다",
+          "wrong": ["많다", "삶다"],
+          "sound": "ac7_script_3.mp3"
+        },
+        "step2": {
+          "type": 2,
+          "correct": "얹다",
+          "wrong": ["없다", "잃다"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "읽다",
+          "wrong": ["외곬", "굶다"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": "짧다",
+          "wrong": ["앉다", "핥다"],
+          "sound": "ac7_script_5.mp3"
+        }
+      },
+      "type4": {
+        "step1": {
+          "type": 1,
+          "correct": "몫",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "값",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step3": {
+          "type": 1,
+          "correct": "읊다",
+          "sound": "ac7_script_6.mp3"
+        }
+      }
+    }
+  }
+}

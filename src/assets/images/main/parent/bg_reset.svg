@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.135" height="32.024" viewBox="0 0 46.135 32.024">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#707070;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="Group_30" transform="translate(3 3)">
+        <g id="Group_29">
+            <g id="Group_29-2">
+                <path id="Rectangle_10_copy" d="M499.718 960l13.719 13.012-13.719 13.012L486 973.012z" class="cls-1" transform="translate(-485.999 -960)"/>
+                <path id="Rectangle_10" d="M0 0H26.407V25.969H0z" class="cls-1" transform="translate(13.731 .033)"/>
+            </g>
+            <g id="Stroke_Effect" fill="#fff" stroke="none" stroke-linejoin="round">
+                <path d="M499.721 988.094l-1.035-.981-13.719-13.012-1.147-1.089 1.147-1.088 13.72-13.013 1.039-.986.63.607h27.278v28.969h-27.29l-.623.593z" transform="translate(-485.999 -960)"/>
+                <path fill="#818a8f" d="M499.719 986.024l.024-.023h26.391v-25.969h-26.382l-.033-.032-13.72 13.012 13.72 13.012m0 3c-.743 0-1.486-.274-2.065-.823l-13.72-13.012c-.596-.566-.935-1.353-.935-2.177 0-.823.339-1.61.936-2.176l13.72-13.013c.578-.549 1.32-.823 2.064-.823.146 0 .293.01.439.032h25.976c1.657 0 3 1.343 3 3v25.969c0 1.657-1.343 3-3 3h-26.042c-.124.015-.249.023-.373.023z" transform="translate(-485.999 -960)"/>
+            </g>
+        </g>
+    </g>
+</svg>

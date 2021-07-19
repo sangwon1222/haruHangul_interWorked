@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <g transform="translate(-397.52 -18.37)">
+        <circle cx="15" cy="15" r="15" fill="#ff62b0" transform="translate(397.52 18.37)"/>
+        <text fill="#fff" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-size="16px" font-weight="500" transform="translate(412.52 40.37)">
+            <tspan x="-5.872" y="0">N</tspan>
+        </text>
+    </g>
+</svg>
